@@ -1,0 +1,25 @@
+body{
+    background-image: url("img/start.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#mulai{
+    color: white;
+    background-color: pink;
+    position: relative;
+    left: 596px;
+    top: 600px;
+    padding: 15px 75px 15px 75px;
+    /* border-color: transparent; */
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#mulai :hover{
+    left: 596px;
+    top: 600px;
+    padding: 20px 80px 20px 80px;
+
+}
